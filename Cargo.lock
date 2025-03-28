@@ -5,10 +5,3 @@ version = 4
 [[package]]
 name = "discord-cli"
 version = "0.1.0"
-dependencies = [
- "discord-env",
-]
-
-[[package]]
-name = "discord-env"
-version = "0.1.0"

@@ -1,2 +1,2 @@
 /target
-/discord-env
+/src/env.rs

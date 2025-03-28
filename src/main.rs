@@ -1,5 +1,4 @@
-use discord_env::*;
-use http::{ Request, Response };
+use discord_cli::env::*;
 
 fn main() {
     println!("Hello, world!");
